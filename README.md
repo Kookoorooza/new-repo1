@@ -1,3 +1,3 @@
 # new-repo1
 
-blah.
+This is a test new repo. 
